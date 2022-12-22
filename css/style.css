@@ -1,0 +1,48 @@
+.section {
+  padding: 70px 0;
+  background-color: #1b1b1b;
+}
+
+.section__header {
+  width: 100%;
+  max-width: 950px;
+  margin: 0 auto 40px;
+  text-align: center;
+}
+
+.section__suptitle {
+  font-size: 15px;
+  color: rgb(90, 90, 90);
+}
+
+.section__title {
+  font-size: 30px;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+}
+
+.punkt {
+  display: flex;
+  align-items: flex-end;
+  padding: 20px;
+  margin-right: 0px;
+}
+
+.tablet {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+.phones {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.section-white {
+  padding: 70px 0;
+  background-color: #ffffff;
+}
